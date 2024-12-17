@@ -1,0 +1,33 @@
+/* Basic reset */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* General styling */
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #f4f4f4;
+    color: #333;
+}
+
+/* Container for center alignment */
+.container {
+    padding: 50px;
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    display: inline-block;
+    margin-top: 100px;
+}
+
+/* Headings and Paragraphs */
+h1 {
+    color: #2c3e50;
+}
+
+p {
+    color: #34495e;
+}
